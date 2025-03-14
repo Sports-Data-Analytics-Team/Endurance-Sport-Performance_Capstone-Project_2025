@@ -5,7 +5,7 @@ In this part of our project, we analyse two Datasets published by University of 
 "Injury Prediction in Competitive Runners with Machine Learning" by Lövdal, Sofie; den Hartigh, Ruud; Azzopardi, George and compare our insights with the individual training data from Nono.
 
 ### structure
-In this folder are five notebooks
+In this folder you find five notebooks
   - 01_cleaning and preparing the Open-Source Data : giving an explanation of this quite complexe datasets (>70 columns)
   - 02_analysing the Open-Source Data : answering the two Hypothesis
     
