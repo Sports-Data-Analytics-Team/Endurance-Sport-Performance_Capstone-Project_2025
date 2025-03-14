@@ -1,8 +1,12 @@
 ## What factors increase injury risk? 
 (coding by Katharina Kreß)
 
-In this part of our project, we analyse two Datasets published by University of Groningen accompanying
-"Injury Prediction in Competitive Runners with Machine Learning" by Lövdal, Sofie; den Hartigh, Ruud; Azzopardi, George and compare our insights with the individual training data from Nono.
+In this part of our project, we analyse Trainingdata of a Dutch runnersteam, collected over the period of 7 years.
+
+The Datasets are published by University of Groningen accompanying
+"Injury Prediction in Competitive Runners with Machine Learning" by Lövdal, Sofie; den Hartigh, Ruud; Azzopardi, George.
+
+After gaining our own insights, we compare these with the individual training data from Nono, trying to answer the question: what factors increase injury risk?
 
 ### structure
 In this folder you find five notebooks
