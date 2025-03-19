@@ -46,10 +46,6 @@ Triathlon, a sport combining swimming, cycling, and running, has grown significa
 
 ## **Conclusion**  
 This project highlights the global reach of triathlon through data visualization. Future work can delve into demographic trends and participation patterns for deeper insights.  
-We analysed three key areas:  
-✅ Intensity ⚡  
-✅ Consistency 📊  
-✅ Injury Prevention 🏥  
 
 ### **Overview of Intensity Analysis**  
 This project examined how training intensity impacts cardiovascular fitness, using resting heart rate (RHR) as a key measure.  
