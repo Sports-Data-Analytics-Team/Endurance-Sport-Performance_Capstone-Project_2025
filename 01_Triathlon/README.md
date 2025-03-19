@@ -18,5 +18,9 @@ In this Folder are two Notebooks:
 ---------------------
 examples of visualisations:
 
+![alt text](../visuals/Triathlon_participants.png)
 
-<img width="976" alt="Bildschirmfoto 2025-03-14 um 16 49 03" src="https://github.com/user-attachments/assets/76d8e730-9728-4023-85ad-d8565916405a" />
+![alt text](../visuals/Triathlon_gender_age.png)
+
+
+
