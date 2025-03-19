@@ -10,10 +10,10 @@ This project was developed as part of the **Advanced Data Analytics Bootcamp** b
 ## 🏁 **Project Goals**  
 
 Our analysis took place in four areas:  
-✅ Triathlon 🚴‍♂️  
-✅ Intensity ⚡  
-✅ Consistency 📊  
-✅ Injury Prevention 🏥  
+  🟢 Triathlon  
+  🟣 Intensity  
+  🔵 Consistency  
+  🔴 Injury Prevention 
 
 By analysing these key factors, we aim to improve  training strategies, performance tracking and injury prevention for athletes.
 
