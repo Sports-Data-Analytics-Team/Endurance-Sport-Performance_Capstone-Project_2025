@@ -1,4 +1,4 @@
-# 🏅 Endurance Sports Data Project - March 2025
+# Endurance Sports Data Project - March 2025 🏅 
 
 Welcome to the **Endurance Sports Data Project** documentation!  
 
@@ -7,7 +7,7 @@ This project was developed as part of the **Advanced Data Analytics Bootcamp** b
 ![image](https://github.com/user-attachments/assets/ff6f13bc-3759-4936-a376-32949d86ffef)
 
 ---
-## **Project Goals**  
+## 🏁 **Project Goals**  
 
 Our analysis took place in four areas:  
 ✅ Triathlon 🚴‍♂️  
@@ -22,7 +22,7 @@ Throughout this documentation, we’ll explore various aspects of the project, f
 Whether you're an athlete, coach, or data enthusiast, this project offers valuable insights into how data analytics can drive improvements in endurance sports.  
 
 ---
-## **Repo Organisation**  
+## 🗂️ **Repo Organisation**  
 
 The repository is structured into different folders, each focusing on a key aspect of endurance sports analysis. The coding for each section was contributed by:  
 
@@ -34,7 +34,7 @@ The repository is structured into different folders, each focusing on a key aspe
 ![image](https://github.com/user-attachments/assets/f39bc29a-4e9a-49e2-87c1-8d7e7ee6803a)
 
 ---
-## **Analysis & Results**
+## 📊 **Analysis & Results**
 ---
 
 ### 🟢 **Triathlon Data Analysis**  
@@ -82,6 +82,7 @@ This dataset accompanies a study on injury prediction in competitive runners usi
 
 #### 🔴 **Conclusion**  
 This analysis confirms that training volume and intensity shift before an injury but rejects inconsistency as a predictor. Future research could further refine machine learning models to enhance injury prediction and prevention strategies.  
+
 ---
 ---
 ## 🚀 **Tech Stack Overview**
