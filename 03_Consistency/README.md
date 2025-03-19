@@ -30,7 +30,7 @@ Learnings:
 
 Inconsistent run training decreases cardiovascular fitness. (Hypothesis verified)
 
- 
+ ![alt text](../visuals/H1.png)
 
 
 
