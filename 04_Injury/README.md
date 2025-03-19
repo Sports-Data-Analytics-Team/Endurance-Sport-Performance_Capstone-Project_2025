@@ -1,20 +1,24 @@
 ## What factors increase injury risk? 
 (coding by Katharina Kreß)
 
-### overview
+### 👩‍💻 overview
 In this part of our project, we analyse Trainingdata of a Dutch runnersteam, collected over the period of 7 years.  
 The Datasets are published by University of Groningen with "Injury Prediction in Competitive Runners with Machine Learning" by Lövdal, Sofie; den Hartigh, Ruud; Azzopardi, George.
 
 After gaining our own insights, we compare these with the individual training data from Nono, trying to answer the question:  
 What factors increase injury risk?  
-We build two Hypothesis:
-- **"We believe there are significant differences in training before an injury"** (H3a)
-- **"We believe that these differences correlate with injury"** (H3b)
 
-For the first one we tested on sginifcance with Mann-Whitney-U-Test (due to no normal distribution).  
+We build two Hypothesis:
+- 🚨 **"We believe there are significant differences in training before an injury"** (H3a)
+- 🚑 **"We believe that these differences correlate with injury"** (H3b)
+
+For the first one we tested on siginifcance with Mann-Whitney-U-Test (due to no normal distribution).  
 The second Hypothesis aims for the correlation that we tested heatmaps and the Spearman-r-value
 
-### structure
+By using Machine Learning we tried to build a
+- ⛑️ **prediction model**
+
+### 🗂️ structure
 In this folder you find five notebooks
   - 01_cleaning and preparing the Open-Source Data : giving an explanation of this quite complexe datasets (>70 columns)
   - 02_analysing the Open-Source Data : answering the two Hypothesis
@@ -23,14 +27,16 @@ In this folder you find five notebooks
   - 05_subsets in SQL: preparing visualisation in tableau
 
 
-### results
-i.  H3a: We could reject the Null-Hypothesis
+### 💡 results
+i.  🚨 ✅ H3a: We could reject the Null-Hypothesis
 
-ii.  H3b: We failed to reject the Null-Hypothesis. No correlation could be found
+ii.  🚑 ❌ H3b: We failed to reject the Null-Hypothesis. No correlation could be found
 
-iii.  Prediction Model: we were unable to design a satisfactory model during the project period
+iii.  ⛑️ ❌ Prediction Model: we were unable to design a satisfactory model during the project period
 
-iv.  for further approach the individuality of each athlete should be taken in account (due to a lack of time, we were unable to pursue this any further)
+### 👓 to be continued 
+
+For further approach the individuality of each athlete should be taken in account (due to a lack of time, we were unable to pursue this any further)
 
  
 
