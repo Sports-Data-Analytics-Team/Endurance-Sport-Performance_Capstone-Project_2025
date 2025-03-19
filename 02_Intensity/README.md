@@ -1,4 +1,4 @@
-## 📊Does High or Low Intensity Training Improve Your Fitness?##
+## 📊Does High or Low Intensity Training Improve Your Fitness? ##
 
 (coding by Aisling Horan)
 
