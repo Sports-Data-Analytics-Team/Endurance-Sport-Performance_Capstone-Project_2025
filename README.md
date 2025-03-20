@@ -2,8 +2,24 @@
 
 Welcome to the **Endurance Sports Data Project** documentation!  
 
-This project was developed as part of the **Advanced Data Analytics Bootcamp** by neuefische Coding School in March 2025. The goal of this project is to leverage data analysis techniques to gain insights into endurance sports, with a primary focus on Triathlon.  
+This project was developed by **Aisling Hooran, Katharina Kreß & Nono Weinzierl** as part of the **Advanced Data Analytics Bootcamp** by neuefische Coding School in March 2025. The goal of this project is to leverage data analysis techniques to gain insights into endurance sports, with a primary focus on Triathlon.  
 
+Team on LinkedIn:  
+[Aisling Hooran](https://www.linkedin.com/in/aisling-h)  
+[Katharina Kreß](https://www.linkedin.com/in/kathkre)  
+[Nono Weinzierl](https://www.linkedin.com/in/nonow)
+
+Presentation:  
+[Video](https://www.youtube.com/watch?v=QgPFDA-3sPc)  
+[Readme](https://github.com/katharina-data/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=injury_matrix.png-,readme_presentation,-.pdf)
+
+Dashboard:  
+[tableau](https://public.tableau.com/app/profile/nono.weinzierl/viz/TriathlonTrainingTracking/TriathlonTrainingDashboard)
+
+More about the Data Analytics Bootcamp:  
+[neuefische](https://www.neuefische.de/en/bootcamp/data-analytics)
+
+## 🗺️ **Roadmap**
 ![alt text](visuals/Project-Roadmap-2.png)
 
 ---
