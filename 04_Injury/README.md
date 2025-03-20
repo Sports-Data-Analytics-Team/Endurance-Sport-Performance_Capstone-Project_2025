@@ -12,21 +12,13 @@ We build two Hypothesis:
 - 🚨 **"We believe there are significant differences in training before an injury"** (H3a)
 - 🚑 **"We believe that these differences correlate with injury"** (H3b)
 
-After checking for any distribution (normal, exponential, Gumble, logistic) with **Anderson-Darling-Test**  
-we tested on siginifcance with **Mann-Whitney-U-Test** (due to no normal distribution) for the first Hypothesis.  
-The second Hypothesis aims for the correlation that we tested **heatmaps** and the **Spearman-r-value**
-
-By using Machine Learning we tried to build a
+And by using Machine Learning we tried to build a
 - ⛑️ **prediction model**
 
-### 🗂️ structure
-In this folder you find five notebooks
-  - 01_cleaning and preparing the Open-Source Data : giving an explanation of this quite complexe datasets (>70 columns)
-  - 02_analysing the Open-Source Data : answering the two Hypothesis
-  - 03_analysing Nono's data : to see if the same patterns occure here for H3a
-  - 04_training Machine Learning Models : to create a prediction model
-  - 05_subsets in SQL: preparing visualisation in tableau
-
+After checking for any distribution (normal, exponential, Gumble, logistic) with **Anderson-Darling-Test**  
+we tested for siginifcant difference in an A/B Test with **Mann-Whitney-U-Test** (due to no normal distribution) for the first Hypothesis.  
+The second Hypothesis aims for the correlation that we tested **heatmaps** and the **Spearman-r-value**.  
+For the prediction model we aggregated new parameter and tried **Logistic Regression** and **Random Forest**.
 
 ### 💡 results
 i.  🚨 ✅ H3a: We could reject the Null-Hypothesis
@@ -35,12 +27,17 @@ ii.  🚑 ❌ H3b: We failed to reject the Null-Hypothesis. No correlation could
 
 iii.  ⛑️ ❌ Prediction Model: we were unable to design a satisfactory model during the project period
 
-### 👓 to be continued 
-
+### 👓 outlook
 For further approach the individuality of each athlete should be taken in account (due to a lack of time, we were unable to pursue this any further)
 
- 
-
+---
+### 🗂️ Folderstructure
+In this folder you find five notebooks
+  - 01_cleaning and preparing the Open-Source Data : giving an explanation of this quite complexe datasets (>70 columns)
+  - 02_analysing the Open-Source Data : answering the two Hypothesis
+  - 03_analysing Nono's data : to see if the same patterns occure here for H3a
+  - 04_training Machine Learning Models : to create a prediction model
+  - 05_subsets in SQL: preparing visualisation in tableau
 ________________________________
 
 ### 🔎 sources: 
