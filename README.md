@@ -11,13 +11,13 @@ Team on LinkedIn:
 
 Presentation:  
 [Video](https://www.youtube.com/watch?v=QgPFDA-3sPc)  
-[Readme]()
+[Readme](https://github.com/katharina-data/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=injury_matrix.png-,readme_presentation,-.pdf)
 
 Dashboard:  
-[tableau]()
+[tableau](https://public.tableau.com/app/profile/nono.weinzierl/viz/TriathlonTrainingTracking/TriathlonTrainingDashboard)
 
 More about the Data Analytics Bootcamp:  
-[neuefische]()
+[neuefische](https://www.neuefische.de/en/bootcamp/data-analytics)
 
 ## 🗺️ **Roadmap**
 ![alt text](visuals/Project-Roadmap-2.png)
