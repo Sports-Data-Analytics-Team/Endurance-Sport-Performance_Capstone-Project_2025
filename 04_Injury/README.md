@@ -12,8 +12,9 @@ We build two Hypothesis:
 - 🚨 **"We believe there are significant differences in training before an injury"** (H3a)
 - 🚑 **"We believe that these differences correlate with injury"** (H3b)
 
-For the first one we tested on siginifcance with Mann-Whitney-U-Test (due to no normal distribution).  
-The second Hypothesis aims for the correlation that we tested heatmaps and the Spearman-r-value
+After checking for any distribution (normal, exponential, Gumble, logistic) with **Anderson-Darling-Test**  
+we tested on siginifcance with **Mann-Whitney-U-Test** (due to no normal distribution) for the first Hypothesis.  
+The second Hypothesis aims for the correlation that we tested **heatmaps** and the **Spearman-r-value**
 
 By using Machine Learning we tried to build a
 - ⛑️ **prediction model**
