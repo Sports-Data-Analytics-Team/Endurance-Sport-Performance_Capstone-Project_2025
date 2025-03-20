@@ -2,7 +2,7 @@
 
 Welcome to the **Endurance Sports Data Project** documentation!  
 
-This project was developed by aisling Hooran, Katharina Kreß & Nono Weinzierl as part of the **Advanced Data Analytics Bootcamp** by neuefische Coding School in March 2025. The goal of this project is to leverage data analysis techniques to gain insights into endurance sports, with a primary focus on Triathlon.  
+This project was developed by **Aisling Hooran, Katharina Kreß & Nono Weinzierl** as part of the **Advanced Data Analytics Bootcamp** by neuefische Coding School in March 2025. The goal of this project is to leverage data analysis techniques to gain insights into endurance sports, with a primary focus on Triathlon.  
 
 Team on LinkedIn:  
 [Aisling Hooran](https://www.linkedin.com/in/aisling-h)  
