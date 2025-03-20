@@ -42,11 +42,12 @@ Whether you're an athlete, coach, or data enthusiast, this project offers valuab
 
 The repository is structured into different folders, each focusing on a key aspect of endurance sports analysis. The coding for each section was contributed by:  
 
-- `triathlon/` - Coded by *Katharina Kreß*  
-- `intensity/` - Coded by *Aisling Horan*  
-- `consistency/` - Coded by *Nono Weinzierl*  
-- `injury/` - Coded by *Katharina Kreß*
+- [Triathlon](https://github.com/Sports-Data-Analytics-Team/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=t-,01_Triathlon,-01_clean_Triathlon_dataset.ipynb) - Coded by *Katharina Kreß*  
+- [Intensity](https://github.com/Sports-Data-Analytics-Team/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=README.md-,02_Intensity,-03_Consistency) - Coded by *Aisling Horan*  
+- [Consistency](https://github.com/Sports-Data-Analytics-Team/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=02_Intensity-,03_Consistency,-04_Injury) - Coded by *Nono Weinzierl*  
+- [Injury](https://github.com/Sports-Data-Analytics-Team/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=03_Consistency-,04_Injury,-visuals) - Coded by *Katharina Kreß*
 
+## 🤝 **Dataflow**
 ![alt text](visuals/Datasets-&-Relations-2.png)
 
 ---
