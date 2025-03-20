@@ -11,7 +11,7 @@ Team on LinkedIn:
 🔵 [Nono Weinzierl](https://www.linkedin.com/in/nonow)    
 
 Presentation:  
-[Video](https://www.youtube.com/watch?v=QgPFDA-3sPc)  
+[Video](https://youtu.be/3Ns735099GU?si=Lw6EnjecQwsr62JJ)  
 [Readme](https://github.com/katharina-data/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=injury_matrix.png-,readme_presentation,-.pdf)
 
 Dashboard:  
