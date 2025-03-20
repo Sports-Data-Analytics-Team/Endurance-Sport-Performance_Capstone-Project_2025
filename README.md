@@ -4,7 +4,7 @@ Welcome to the **Endurance Sports Data Project** documentation!
 
 This project was developed as part of the **Advanced Data Analytics Bootcamp** by neuefische Coding School in March 2025. The goal of this project is to leverage data analysis techniques to gain insights into endurance sports, with a primary focus on Triathlon.  
 
-![image](https://github.com/user-attachments/assets/ff6f13bc-3759-4936-a376-32949d86ffef)
+![alt text](visuals/Project-Roadmap-2.png)
 
 ---
 ## 🏁 **Project Goals**  
@@ -31,7 +31,7 @@ The repository is structured into different folders, each focusing on a key aspe
 - `consistency/` - Coded by *Nono Weinzierl*  
 - `injury/` - Coded by *Katharina Kreß*
 
-![image](https://github.com/user-attachments/assets/f39bc29a-4e9a-49e2-87c1-8d7e7ee6803a)
+![alt text](visuals/Datasets-&-Relations-2.png)
 
 ---
 ## 📊 **Analysis & Results**
@@ -90,14 +90,14 @@ This analysis confirms that training volume and intensity shift before an injury
 
 This tech stack outlines the various tools and technologies used across different stages of the data pipeline, from problem definition to presentation.  
 
-![image](https://github.com/user-attachments/assets/4e9c89d1-3898-4704-8de1-eebd97ffe7ce)
+![alt text](visuals/Tooling-&-Tech-Stack-2.png)
 
 ---
 ## 🛠️ **Data Architecture**  
 
 This data architecture outlines the entire workflow, from raw data processing to visualization, ensuring a structured and efficient data pipeline. The process is divided into four main stages: Cleaning, Storing & Preparing, Analysis, and Visualization.  
 
-![image](https://github.com/user-attachments/assets/4c31232d-fe23-434e-9d88-f53d44144299)
+![alt text](visuals/Data-Architecture-2.png)
 
 ---
 ## 📗 **Conclusion** 
