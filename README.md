@@ -12,7 +12,7 @@ Team on LinkedIn:
 
 Presentation:  
 [Video](https://youtu.be/3Ns735099GU?si=Lw6EnjecQwsr62JJ)  
-[Readme](https://github.com/katharina-data/Endurance-Sport-Performance_Capstone-Project_2025/edit/main/README.md#:~:text=injury_matrix.png-,readme_presentation,-.pdf)
+[Readme](https://github.com/Sports-Data-Analytics-Team/Endurance-Sport-Performance_Capstone-Project_2025/blob/main/visuals/readme_presentation.pdf)
 
 Dashboard:  
 [tableau](https://public.tableau.com/app/profile/nono.weinzierl/viz/TriathlonTrainingTracking/TriathlonTrainingDashboard)
