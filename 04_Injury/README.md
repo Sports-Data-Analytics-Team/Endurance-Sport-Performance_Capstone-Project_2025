@@ -43,5 +43,10 @@ For further approach the individuality of each athlete should be taken in accoun
 
 ________________________________
 
-paper & datasource : https://pure.rug.nl/ws/portalfiles/portal/183763727/_15550273_International_Journal_of_Sports_Physiology_and_Performance_Injury_Prediction_in_Competitive_Runners_With_Machine_Learning.pdf
+### 🔎 sources: 
+Lövdal, S., den Hartigh, R., & Azzopardi, G. (2021). Injury Prediction in Competitive Runners with Machine
+Learning. International journal of sports physiology and performance, 16(10), 1522–1531.
+
+https://pure.rug.nl/ws/portalfiles/portal/183763727/_15550273_International_Journal_of_Sports_Physiology_and_Performance_Injury_Prediction_in_Competitive_Runners_With_Machine_Learning.pdf
+
 
