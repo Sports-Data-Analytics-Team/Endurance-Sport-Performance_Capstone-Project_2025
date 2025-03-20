@@ -15,10 +15,12 @@ We build two Hypothesis:
 And by using Machine Learning we tried to build a
 - ⛑️ **prediction model**
 
-After checking for any distribution (normal, exponential, Gumble, logistic) with **Anderson-Darling-Test**  
-we tested for siginifcant difference in an A/B Test with **Mann-Whitney-U-Test** (due to no normal distribution) for the first Hypothesis.  
-The second Hypothesis aims for the correlation that we tested **heatmaps** and the **Spearman-r-value**.  
-For the prediction model we aggregated new parameter and tried **Logistic Regression** and **Random Forest**.
+After checking for any distribution (normal, exponential, Gumble, logistic, lognormal) with  **Shapiro-Wilk-Test**,  **Kernel Density Estimation**,  **Anderson-Darling-Test**  
+we tested for siginifcant difference in an A/B Test with  **Mann-Whitney-U-Test** (due to no normal distribution) for the first Hypothesis.  
+
+The second Hypothesis aims for the correlation, we used  **heatmaps** and  the **Spearman-r-value**.  
+
+For the prediction model we aggregated new features and tried  **Logistic Regression** and  **Random Forest**.
 
 ### 💡 results
 i.  🚨 ✅ H3a: We could reject the Null-Hypothesis
